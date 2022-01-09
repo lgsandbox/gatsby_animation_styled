@@ -4,5 +4,4 @@ deployed example on netlify here:
 
 https://gatsbyjs-animejs-styledcomponents-starter.netlify.app/
 
-personal starter repo, don't forget to npm install!!
-
+personal starter repo, but plans to ship this to the official gatsby starter library
