@@ -18,7 +18,8 @@ class IndexPage extends React.Component {
         <Layout >
         <title>bigGrow</title>
           <Seo title="Biggrow Web Solutions" description="Web Development Design and Solutions"/>
-        </Layout>
+        <script src="//code.tidio.co/cgoptn6e1p2x5iagmiivdw8hlvopck3d.js" async></script>
+        <Layout/>
 
       );
     }
