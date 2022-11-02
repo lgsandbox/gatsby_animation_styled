@@ -19,7 +19,7 @@ class IndexPage extends React.Component {
         <title>bigGrow</title>
           <Seo title="Biggrow Web Solutions" description="Web Development Design and Solutions"/>
       
-        <Layout/>
+        </Layout>
 
       );
     }
